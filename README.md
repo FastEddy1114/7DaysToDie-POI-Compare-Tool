@@ -6,3 +6,4 @@ When you run the script file you will be prompted for all the info the script ne
 The script will compare all POIs in the Prefabs\POIs folder to the contents of the prefabs.xml file included with your RWG world.
 The script can be used to list the POIs that are contained in your RWG world as well as list the POIs that are missing from your RWG world.
 These results can also be output and saved to a .txt file for later reference if you wish.
+There are some notes in the comments of the script file for advanced use as well such as hard coding some of the data paths requested by the script during execution.
